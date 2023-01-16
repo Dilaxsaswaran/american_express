@@ -1,17 +1,16 @@
 # american_express
 Kaggle Competition Default Prediction
 
-1. Problem Statement
-2. Objective
-3. Installing & Importing Libraries
-4. Data Acquisition & Description
-5. Data Pre-processing
-6. Model Development & Evaluation
-7. Conclusion
-8. Submission
+
+Installing & Importing Libraries
+Data Acquisition & Description
+Data Pre-processing
+Model Development & Evaluation
+Conclusion
 
 
 Problem Statement
+
 Whether out at a restaurant or buying tickets to a concert, modern life counts on the convenience of a credit card to make daily purchases. It saves us from carrying large amounts of cash and also can advance a full purchase that can be paid over time.
 
 How do card issuers know we’ll pay back what we charge? That’s a complex problem with many existing solutions—and even more potential improvements, to be explored in this competition.
